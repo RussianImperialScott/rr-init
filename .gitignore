@@ -1,3 +1,15 @@
+# R/Rstudio stuff
 .Rproj.user
 .Rhistory
 .RData
+
+# Python/Jupyter stuff
+.ipynb_checkpoints
+__pycache__
+
+# Build stuff
+.snakemake
+
+# Scott stuff
+notes
+
